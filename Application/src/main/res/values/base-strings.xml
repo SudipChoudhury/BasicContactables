@@ -16,7 +16,7 @@
 -->
 
 <resources>
-    <string name="app_name">MyContactSearch</string>
+    <string name="app_name">MyContactsSearchApp</string>
     <string name="intro_message">
         <![CDATA[
         
